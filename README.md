@@ -15,10 +15,10 @@
 - javascript
 
 # github code repository
-- http://gethub.com
+- https://github.com/NatGallagher/GiphyApiSearchV1.git
 
 # website url
-- htpp://github.com
+- https://natgallagher.github.io/GiphyApiSearchV1/
 
 # future improvements
 - item 1
